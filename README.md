@@ -109,33 +109,21 @@ Lastly, the synthetic data generated looks like:
 If you find this repository useful, please consider to **cite** the article(s) for which it has been created
 
 ```
-@INPROCEEDINGS{9596115,
+@inproceedings{ruiz2021tracking,
+  title={Tracking of Quantized Signals Based on Online Kernel Regression},
   author={Ruiz-Moreno, Emilio and Beferull-Lozano, Baltasar},
-  booktitle={2021 IEEE 31st International Workshop on Machine Learning for Signal Processing (MLSP)}, 
-  title={Tracking of Quantized Signals Based on Online Kernel Regression}, 
+  booktitle={2021 IEEE 31st International Workshop on Machine Learning for Signal Processing (MLSP)},
+  pages={1--6},
   year={2021},
-  volume={},
-  number={},
-  pages={1-6},
-  doi={10.1109/MLSP52302.2021.9596115}}
-  ```
+  organization={IEEE}
+}
+```
 
-  ```
-  @misc{https://doi.org/10.48550/arxiv.2203.03776,
-  doi = {10.48550/ARXIV.2203.03776},
-  
-  url = {https://arxiv.org/abs/2203.03776},
-  
-  author = {Ruiz-Moreno, Emilio and López-Ramos, Luis Miguel and Beferull-Lozano, Baltasar},
-  
-  keywords = {Machine Learning (cs.LG), Signal Processing (eess.SP), FOS: Computer and information sciences, FOS: Computer and information sciences, FOS: Electrical engineering, electronic engineering, information engineering, FOS: Electrical engineering, electronic engineering, information engineering, I.2.6},
-  
-  title = {Zero-delay Consistent and Smooth Trainable Interpolation},
-  
-  publisher = {arXiv},
-  
-  year = {2022},
-  
-  copyright = {Creative Commons Attribution 4.0 International}
+```
+@article{ruiz2022zero,
+  title={Zero-delay Consistent and Smooth Trainable Interpolation},
+  author={Ruiz-Moreno, Emilio and L{\'o}pez-Ramos, Luis Miguel and Beferull-Lozano, Baltasar},
+  journal={arXiv preprint arXiv:2203.03776},
+  year={2022}
 }
 ```
