@@ -103,27 +103,3 @@ Lastly, the synthetic data generated looks like:
 <img src="img/synthetic_data.png" width="400"/>
 
 > **NOTE**: The code produces a VAR data **generator**. That means that the sysnthetic data is produced in a way that is suitable for online learning as well as batch learning methods without further modifications.
-
-## Citing 🎓
-
-If you find this repository useful, please consider to **cite** the article(s) for which it has been created
-
-```
-@inproceedings{ruiz2021tracking,
-  title={Tracking of Quantized Signals Based on Online Kernel Regression},
-  author={Ruiz-Moreno, Emilio and Beferull-Lozano, Baltasar},
-  booktitle={2021 IEEE 31st International Workshop on Machine Learning for Signal Processing (MLSP)},
-  pages={1--6},
-  year={2021},
-  organization={IEEE}
-}
-```
-
-```
-@article{ruiz2022zero,
-  title={Zero-delay Consistent and Smooth Trainable Interpolation},
-  author={Ruiz-Moreno, Emilio and L{\'o}pez-Ramos, Luis Miguel and Beferull-Lozano, Baltasar},
-  journal={arXiv preprint arXiv:2203.03776},
-  year={2022}
-}
-```
